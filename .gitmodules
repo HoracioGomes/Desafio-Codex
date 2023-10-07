@@ -1,6 +1,3 @@
 [submodule "ExercisesCdx-Back"]
 	path = ExercisesCdx-Back
 	url = https://github.com/HoracioGomes/ExercisesCdx-Back.git
-[submodule "ExercisesCdx-Front"]
-	path = ExercisesCdx-Front
-	url = https://github.com/HoracioGomes/ExercisesCdx-Front.git
