@@ -4,7 +4,7 @@
 **Step 1**
 To run the created application, in the project root folder, run the command:
 ```shell
-gradlew run
+gradlew bootRun
 ```
 *the application will be running on http://127.0.0.1:8080/*
 
